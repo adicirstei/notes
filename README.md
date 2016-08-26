@@ -28,7 +28,7 @@ $ halcyon install https://github.com/mietek/haskell-on-heroku-tutorial
 Deploys in one click to a new [DigitalOcean](https://digitalocean.com/) droplet, or to the [Heroku](https://heroku.com/) platform:
 
 - [Deploy to DigitalOcean](https://halcyon.sh/deploy/?url=https://github.com/mietek/haskell-on-heroku-tutorial)
-- [Deploy to Heroku](https://heroku.com/deploy?template=https://github.com/mietek/haskell-on-heroku-tutorial)
+- [Deploy to Heroku](https://heroku.com/deploy?template=https://github.com/adicirstei/notes)
 
 
 About
